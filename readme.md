@@ -1,0 +1,1 @@
+Creating a responsive, animated navigation bar with dropdown functionality in React
